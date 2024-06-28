@@ -35,32 +35,16 @@
                         role="button"
                         aria-haspopup="true"
                         aria-expanded="false"
-                        >General Studies 1</a
+                        >History</a
                     >
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="./history.php">History</a>
-                        <a class="dropdown-item" href="#tab3Id">Society</a>
+                        <a class="dropdown-item" href="./history.php">What is History?</a>
+                        <a class="dropdown-item" href="./stoneage.php">Stone Age</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#tab4Id">Geography</a>
+                        <a class="dropdown-item" href="./chalcolothic.php">Chalcolithic Age</a>
                     </div>
                 </li>
-                <li class="nav-item dropdown ">
-                    <a
-                        class="nav-link dropdown-toggle text-light"
-                        data-bs-toggle="dropdown"
-                        href="#"
-                        role="button"
-                        aria-haspopup="true"
-                        aria-expanded="false"
-                        >General Studies 2</a
-                    >
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#tab2Id">Polity</a>
-                        <a class="dropdown-item" href="#tab3Id">Governance</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#tab4Id">IR</a>
-                    </div>
-                </li>
+                
             </ul>
             
             <!-- Tab panes -->
